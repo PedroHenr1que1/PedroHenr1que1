@@ -40,7 +40,3 @@
 </div>
 
 ###
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22nf2ai4tq5coyngl2wfye7qq&width={500})
-
-###
